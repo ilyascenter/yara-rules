@@ -1,3 +1,3 @@
 # STEALER
 
-This folder contains a collection of YARA rules created to detect various families of stealer commonly encountered during malware analysis.
+This folder contains YARA rules designed to detect various information stealer malware families commonly observed during malware analysis. These rules focus on patterns related to credential theft, browser data extraction, clipboard monitoring, and exfiltration behavior.
